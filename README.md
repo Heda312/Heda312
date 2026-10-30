@@ -5,7 +5,7 @@
   </picture>
 
 <h1>Wahyu N</h1>
-<p><strong>Frontend or full-stack engineer</strong></p>
+<p><strong>Python Developer</strong></p>
 <p>Building useful things with Jupyter Notebook and shipping in public.</p>
 <p><sub>Based in Jakarta TImur</sub></p>
 
